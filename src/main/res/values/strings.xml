@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="invalid_name">Nama tidak boleh kosong</string>
+    <string name="invalid_tempat">Tempat lahir tidak boleh kosong</string>
+    <string name="invalid_lahir">Tanggal lahir tidak boleh kosong</string>
+    <string name="invalid_nama">Nama tidak boleh kosong</string>
+</resources>
